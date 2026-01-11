@@ -1,4 +1,4 @@
-# AdminPanel - Documentación Técnica y Manual de Usuario
+# AdminPanel - Documentación Técnica y Manual de Usuario.
 
 ## 1. Descripción General
 AdminPanel es un panel de administración moderno diseñado para la gestión de servidores Raspberry Pi y otros dispositivos. Está construido completamente con tecnologías web modernas (HTML5, CSS3, JavaScript ES6+) y utiliza IndexedDB para el almacenamiento persistente local.
