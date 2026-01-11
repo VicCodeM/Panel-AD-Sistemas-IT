@@ -1,0 +1,14 @@
+{
+  "name": "admin-panel-ssh",
+  "version": "1.0.0",
+  "description": "AdminPanel with real SSH proxy functionality",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "ssh2": "^1.14.0"
+  }
+}
